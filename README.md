@@ -6,9 +6,9 @@ Avec l’explosion des contenus en ligne, cette problématique représente un en
 
 Optimiser la diffusion des articles :
 
-Identifier ceux ayant un fort potentiel d’engagement pour les mettre en avant.
-Améliorer la stratégie de contenu : Aider les rédacteurs et éditeurs à se concentrer sur les caractéristiques des articles les plus performants.
-Maximiser les revenus publicitaires : Privilégier les articles susceptibles de générer un trafic élevé.
+  - Identifier ceux ayant un fort potentiel d’engagement pour les mettre en avant.
+  - Améliorer la stratégie de contenu : Aider les rédacteurs et éditeurs à se concentrer sur les caractéristiques des articles les plus performants.
+  - Maximiser les revenus publicitaires : Privilégier les articles susceptibles de générer un trafic élevé.
 
 Méthode utilisé :
   - KNN
